@@ -11,6 +11,8 @@ import androidx.navigation.ui.setupActionBarWithNavController
 import android.view.Menu
 import android.view.MenuItem
 import com.ripple.tool.databinding.ActivityMainBinding
+import com.ripple.tool.extend.forEach
+import com.ripple.tool.int.half
 
 class MainActivity : AppCompatActivity() {
 
