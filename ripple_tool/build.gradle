@@ -59,7 +59,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.fanyafeng'
                 artifactId = 'ripple-tool'
-                version = '0.0.1'
+                version = '0.0.2'
             }
         }
         repositories {
